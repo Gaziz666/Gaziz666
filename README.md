@@ -1,9 +1,10 @@
-## I'm I'm Gaziz 👋 and I'm a Junior front-end Developer!!!
+## I'm Gaziz 👋 and I'm a front-end Developer!!!
 
--   🔭 I finished a front-end course from [RSSchool](https://rs.school/)
--  1. front-end/js 2020Q3 finished on Top 120 of 2000
--  2. React 2021Q1 finished on Top 100 of 600
--   🤔 I’m looking for job as a front end developer
+-   🔭 I have finish a front-end course from [RSSchool](https://rs.school/)
+-  1. front-end/js 2020Q3 finished in Top 120 of 2000
+-  2. React 2021Q1 finished in Top 100 of 600
+-   🔭 I have been working as a fullstask developer since May 2021
+-   🤔 I’m looking for job as a front end or fullstask developer
 
 ### Hard Skils:
 
